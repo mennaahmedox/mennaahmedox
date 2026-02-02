@@ -1,16 +1,23 @@
-## Hi there 👋
+# Menna Ahmed
+### Data Analyst | Data Storytelling & Insights 📊
 
-<!--
-**mennaahmedox/mennaahmedox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on uncovering patterns and transforming raw data into strategic solutions. I combine analytical power with design thinking to create impactful data visualizations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills & Tools
+- **Data Analysis:** SQL, Python, Advanced Excel.
+- **Data Visualization:** Power BI, Tableau.
+- **UI/UX Design:** Figma.
+
+---
+
+### 📉 GitHub Activity
+![Menna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mennaahmedox&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennaahmedox&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [Menna Ahmed](https://www.linkedin.com/in/menna-ahmed-99aa86353)
+-
