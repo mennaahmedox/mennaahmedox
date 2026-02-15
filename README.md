@@ -20,4 +20,3 @@ Data Analyst focused on uncovering patterns and transforming raw data into strat
 
 ### 📫 Connect with me
 - **LinkedIn:** [Menna Ahmed](https://www.linkedin.com/in/menna-ahmed-99aa86353)
--
